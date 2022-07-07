@@ -1,0 +1,109 @@
+
+.main{
+    position: relative;
+    top: 0 auto;
+width:90%;
+min-height: 10vh;
+background-color:(#EAE0CC);
+
+}
+.ContentBG{
+position: relative;
+left: 300px;
+width: 50%;
+bottom: 90px;
+min-height: 90vh;
+
+background-color: #7cafc4;
+}
+.ABoutMe{
+  font-family: 'Bitter', serif;
+  font-family: 'Crimson Text', serif;
+text-align: center;
+color: #eae0cc;
+font-size: 50px;
+}
+.MyParagrpah{
+  font-family: 'Bitter', serif;
+  font-family: 'Crimson Text', serif;
+position: relative;
+bottom: 600px;
+left: 200px;
+background-color: #eae0cc;
+border: 10px solid black;
+width: 300px;
+padding: 25px;
+margin: 20px;
+}
+.Second{
+  font-family: 'Bitter', serif;
+  font-family: 'Crimson Text', serif;
+position: relative;
+bottom: 600px;
+left: 1000px;
+
+
+    background-color: #eae0cc;
+border: 10px solid black;
+width: 300px;
+padding: 25px;
+
+}
+.Git{
+  position: relative;
+  bottom: 1200px;
+  left: 1000px;
+    background-color: #eae0cc;
+    border: 10px solid black;
+    width: 250px;
+    padding: 25px;
+}
+.Divider{
+    position: relative;
+    top: -600px;
+}
+.sidenav {
+  font-family: 'Bitter', serif;
+  font-family: 'Crimson Text', serif;
+    height: 100%; 
+    width: 160px; 
+    position: fixed;
+    z-index: 1; 
+    top: 0; 
+    left: 0;
+    background-color: #111; 
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+  
+  .sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+  }
+  
+  .sidenav a:hover {
+    color: #f1f1f1;
+  }
+  
+
+  .main {
+    margin-left: 160px; 
+    padding: 0px 10px;
+  }
+  
+ 
+  @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  }
+  .Grade{
+ position: relative;
+ bottom: 800px;
+    background-color: #eae0cc;
+    border: 10px solid black;
+    width: 250px;
+    padding: 25px;
+  }
